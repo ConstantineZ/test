@@ -11,10 +11,10 @@
     "access": "External",
     "properties": [],
     "history": {
-      "created": "2020-12-16T17:20:43.55",
+      "created": "2020-12-16T17:24:21.85",
       "createdBy": "c.zubenko@spd-ukraine.com",
-      "updated": "2020-12-16T17:20:43.55",
-      "updatedBy": "c.zubenko@spd-ukraine.com",
+      "updated": "2020-12-16T17:24:21.85",
+      "updatedBy": "unknown",
       "completions": []
     },
     "alias": ""
@@ -23,6 +23,7 @@
     "url": "https://github.com/ConstantineZ/test.git",
     "user": "ntyBQVgynHLP4IIyCVE2vREdFqv2iXBWmFgcSd/ipM2vUkxnKAgMdgmJLP89J43M5HZnsjgF0ubSz6hY7cdAmoWZ/7J3sZBPAlV9XsJNjkj68ghG2lb2yGpPHuYZ6y93Lql+V58o9r5XaTTUvAsr/T8fwFGDejvqrcSHlS19jpfT1M0plVWl+j1Rhjn/13ofrSVMqh+L1dyKRng0sdH2HY6r81p8CDiaNtnBSKJuzS8CpPE1IH21QOgifDCzN11ADyonBIvSZPaHambkT3XDd968HlxquVdvfIEGHhHrS7Xs9/Sgv+5bxgjgUmwqNtHPCUOokWoH+6Q9Y0TuIRckVA==",
     "password": "NYiJ830lbFYDd/hUbYBhNwBRQz5FpGUC24Q9s6Nonwkq4rBfl+u/CrDp37odYGP4bz7JgI3vWy9pGE7iqhC3KA66Nf99F0MMNJDDpOIawOvJ46KHxOEq+6VoQnKxAsPTHKl+VXHQt88LUOd54GJV/e89kIZY2o3Gi6PWhFHhgeIWiVtSNTcGHk8Kb4k/0jyIzu5FkfNlNLULLQQat4EDeK31RbCtvpFbUAQzHRi4Z/oR0/rey8XalIEoyV8XIBHMGKIaKKGK1ykOlizEwjdTcDaQRKJJlcJJjU0PkibalZlhYKrMtVbaXrrhVUqIvSoc8tkMUwU9yTfLiVmStwbN1g==",
-    "integration": true
+    "integration": true,
+    "status": ""
   }
 }

@@ -1,0 +1,23 @@
+{
+  "identity": {
+    "id": "6d8a4cc3-ed59-44e7-a15d-1779dd56b9b9",
+    "name": "NewApp"
+  },
+  "object": {
+    "parent": {
+      "id": "4d3598f8-9a7d-458d-8038-b808975a733d",
+      "name": "/organizations/test-int/systems/NewSystem"
+    },
+    "tags": [],
+    "documents": [],
+    "type": "Application",
+    "properties": [],
+    "history": {
+      "created": "2020-12-16T17:13:41.53",
+      "createdBy": "c.zubenko@spd-ukraine.com",
+      "updated": "2020-12-16T17:13:41.53",
+      "updatedBy": "c.zubenko@spd-ukraine.com",
+      "completions": []
+    }
+  }
+}

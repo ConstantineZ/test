@@ -1,0 +1,96 @@
+{
+  "identity": {
+    "id": "bcad59b3-708d-4b0e-82ca-4acf5282c06f",
+    "name": "Data"
+  },
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "revision": 1
+  },
+  "object": {
+    "parent": {
+      "id": "6d8a4cc3-ed59-44e7-a15d-1779dd56b9b9",
+      "name": "/organizations/test-int/systems/NewSystem/applications/NewApp"
+    },
+    "picture": "",
+    "tags": [],
+    "documents": [],
+    "type": "DataSet",
+    "usage": "Resource",
+    "access": "External",
+    "properties": [],
+    "elements": [],
+    "history": {
+      "created": "2020-12-16T17:22:15.4",
+      "createdBy": "c.zubenko@spd-ukraine.com",
+      "updated": "2020-12-16T17:23:26.017",
+      "updatedBy": "c.zubenko@spd-ukraine.com",
+      "completions": [
+        {
+          "status": "Finalized",
+          "completed": "2020-12-16T17:22:31.887",
+          "completedBy": "c.zubenko@spd-ukraine.com",
+          "completedByMessage": "/organizations/test-int/systems/NewSystem/applications/NewApp/issues/5406/messages/2"
+        },
+        {
+          "status": "Approved",
+          "completed": "2020-12-16T17:23:25.41",
+          "completedBy": "c.zubenko@spd-ukraine.com",
+          "completedByMessage": "/organizations/test-int/systems/NewSystem/applications/NewApp/issues/5406/messages/2"
+        }
+      ]
+    },
+    "lastApprovedVersion": {
+      "major": 1,
+      "minor": 0,
+      "revision": 1
+    },
+    "alias": ""
+  },
+  "external": true,
+  "structure": {
+    "fields": [
+      {
+        "identity": {
+          "id": "b0adc756-e4f3-4107-a5ce-a5d08e38f1d8",
+          "name": "id",
+          "description": ""
+        },
+        "order": 1,
+        "usage": "Property",
+        "count": 1,
+        "type": "String",
+        "size": 0,
+        "optional": true,
+        "value": "",
+        "format": "",
+        "access": 255,
+        "privacy": "low"
+      },
+      {
+        "identity": {
+          "id": "708ca66c-c044-42b5-837b-6fe6c1b6ad66",
+          "name": "ud",
+          "description": ""
+        },
+        "order": 2,
+        "usage": "Property",
+        "count": 1,
+        "type": "String",
+        "size": 0,
+        "optional": true,
+        "value": "",
+        "format": "",
+        "access": 255,
+        "privacy": "low"
+      }
+    ],
+    "keys": []
+  },
+  "layouts": [],
+  "data": {
+    "records": [],
+    "examples": []
+  }
+}
