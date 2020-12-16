@@ -6,38 +6,35 @@
   "version": {
     "major": 1,
     "minor": 0,
-    "revision": 1
+    "revision": 0
   },
   "object": {
     "parent": {
       "id": "6d8a4cc3-ed59-44e7-a15d-1779dd56b9b9",
       "name": "/organizations/test-int/systems/NewSystem/applications/NewApp"
     },
-    "picture": "",
     "tags": [],
     "documents": [],
     "type": "DataSet",
     "usage": "Resource",
-    "access": "External",
     "properties": [],
-    "elements": [],
     "history": {
-      "created": "2020-12-16T17:22:15.4",
+      "created": "2020-12-16T17:13:49.827",
       "createdBy": "c.zubenko@spd-ukraine.com",
-      "updated": "2020-12-16T17:23:26.017",
+      "updated": "2020-12-16T17:22:14.833",
       "updatedBy": "c.zubenko@spd-ukraine.com",
       "completions": [
         {
           "status": "Finalized",
-          "completed": "2020-12-16T17:22:31.887",
+          "completed": "2020-12-16T17:15:05.863",
           "completedBy": "c.zubenko@spd-ukraine.com",
-          "completedByMessage": "/organizations/test-int/systems/NewSystem/applications/NewApp/issues/5406/messages/2"
+          "completedByMessage": "/organizations/test-int/systems/NewSystem/applications/NewApp/issues/5405/messages/2"
         },
         {
           "status": "Approved",
-          "completed": "2020-12-16T17:23:25.41",
+          "completed": "2020-12-16T17:15:29.243",
           "completedBy": "c.zubenko@spd-ukraine.com",
-          "completedByMessage": "/organizations/test-int/systems/NewSystem/applications/NewApp/issues/5406/messages/2"
+          "completedByMessage": "/organizations/test-int/systems/NewSystem/applications/NewApp/issues/5405/messages/2"
         }
       ]
     },
@@ -45,8 +42,7 @@
       "major": 1,
       "minor": 0,
       "revision": 1
-    },
-    "alias": ""
+    }
   },
   "external": true,
   "structure": {
@@ -58,23 +54,6 @@
           "description": ""
         },
         "order": 1,
-        "usage": "Property",
-        "count": 1,
-        "type": "String",
-        "size": 0,
-        "optional": true,
-        "value": "",
-        "format": "",
-        "access": 255,
-        "privacy": "low"
-      },
-      {
-        "identity": {
-          "id": "708ca66c-c044-42b5-837b-6fe6c1b6ad66",
-          "name": "ud",
-          "description": ""
-        },
-        "order": 2,
         "usage": "Property",
         "count": 1,
         "type": "String",
